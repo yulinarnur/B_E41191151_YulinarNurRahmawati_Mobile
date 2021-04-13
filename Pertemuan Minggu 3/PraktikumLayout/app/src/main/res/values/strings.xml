@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">PraktikumLayout</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="reminder">Reminder</string>
+    <string name="done">Done</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="btn_frame">Tombol</string>
+    <string name="username">Username :</string>
+    <string name="masukkan_username">Masukkan Username :</string>
+    <string name="password_input">Password :</string>
+    <string name="masukkan_password">Masukkan Password :</string>
+    <string name="submit">Submit</string>
+    <string name="txt_button">Text Button</string>
+    <string name="scroll_view">Scroll View </string>
+    <string name="wlc_scV">Welcome to ScrollView </string>
+    <string name="btn1">Button One</string>
+    <string name="btn2">Button Two </string>
+    <string name="btn3">Button Three</string>
+    <string name="btn4">Button Four</string>
+    <string name="btn5">Button Five</string>
+    <string name="btn6">Button Six</string>
+    <string name="btn7">Button Seven</string>
+    <string name="btn8">Button Eight</string>
+    <string name="btn9">Button Nine</string>
+    <string name="satu_1">1</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="dua_2">2</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="tiga_3">3</string>
+    <string name="empat_4">4</string>
+    <string name="frame_layout">Frame Layout</string>
+    <string name="lima_5">5</string>
+    <string name="table_layout">Table Layout</string>
+    <string name="enam_6">6</string>
+    <string name="material_design">Material Design</string>
+    <string name="tujuh_7">7</string>
+    <string name="ssroll_horizontal">Scroll View Horizontal</string>
+    <string name="constraint_layout">Constraint Layout</string>
+
+
+    <string-array name="reminder_tgl">
+        <item>Wed,June 27,2012</item>
+    </string-array>
+
+    <string-array name="jam">
+        <item>8:00 AM</item>
+    </string-array>
+</resources>
